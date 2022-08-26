@@ -5,3 +5,5 @@
 - repositorio
 - video de git
 
+## Calendario
+- 10/06 - Aula inaugural
